@@ -1,1 +1,1 @@
-# frontend-intermediario
+# Repo do curso de Front-end Intermediário
